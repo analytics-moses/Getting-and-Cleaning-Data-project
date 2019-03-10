@@ -105,7 +105,7 @@ complete_data_set_cols <- gsub("[\\(\\)-]", "", complete_data_set_cols)
 complete_data_set_cols <- gsub("BodyBody", "Body", complete_data_set_cols)
 
 # ...and give meaningful names to columns by substituting abbreviations, such as: change 'std'
-# to 'Standard Deviation'
+# to 'StandardDeviation'
 complete_data_set_cols <- gsub("Acc", "Accelerometer", complete_data_set_cols)
 complete_data_set_cols <- gsub("Freq", "Frequency", complete_data_set_cols)
 complete_data_set_cols <- gsub("Gyro", "Gyroscope", complete_data_set_cols)
