@@ -6,7 +6,7 @@ Compressed File Location: [The UCI Machine Learning Dataset](https://d396qusza40
 
 
 
-* _Overview_
+* __Overview__
 In this project one demonostrates extracting and and cleaning of data for the sake of cretaing a Tidy Dataset for analysis in the future. A full description of the data used in this project can be found at The UCI Machine Learning Repository
 
 * The following is a summary description of the project instructions:
@@ -16,11 +16,11 @@ In this project one demonostrates extracting and and cleaning of data for the sa
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-* _Instructions_
+* __Instructions__
 One should execute *run_analysis.R* in one's *R* Environment.
 
-* _Cleaned Dataset_
+* __Cleaned Dataset__
 The resulting clean Dataset *tidy_data.txt* is going to be located the *UCI HAR Dataset* subdirectory of one's *Working Directory*. This resulting Dataset contains a 'mean' for each variable of all 'subject'/'activity' records.
 
-* _Licence_
+* __Licence__
 Free Software
