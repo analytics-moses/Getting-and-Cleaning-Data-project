@@ -132,8 +132,7 @@ complete_data_set_Means <- complete_data_set %>%
 write.table(complete_data_set_Means, "tidy_data.txt", row.names = FALSE, quote = FALSE)
 
 #################################################################################################
-# At the end of the script reset the Working Directory to its original setting
-# or the sake of preserving uniformity if in the future iterations of this script are 
-# going to be required
+# At the end of the script reset the Working Directory to its original setting or the sake of 
+# preserving uniformity if in the future iterations of this script are going to be required
 
 setwd('./..')
