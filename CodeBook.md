@@ -3,7 +3,7 @@
 subject - The participant's ID
 activity - The tag representing each activity performed
 
-#### Extracted _feature columns_
+#### Extracted _feature_ columns
 > tBodyAcc-mean()-X (column 1)
 tBodyAcc-mean()-Y (column 2)
 tBodyAcc-mean()-Z (column 3)
